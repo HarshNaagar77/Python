@@ -16,16 +16,16 @@ print(num1 - num2)  # Output: 6.5
 # Multiplication
 print(num1 * num2)  # Output: 35.0
 
-# Division
-print(num1 / num2)  # Output: 2.857142857142857
+# Divisions
+print(num1 / num2)  # Output: 2.8571428571428575wz 
 
 # Floor Division
-print(num1 // num2)  # Output: 2.0
+print(num1 // num2)  # Output: 2.0 
 
 # Modulus
 print(num1 % num2)  # Output: 0.5
 
-# Exponentiation
+# Exponentiation 
 print(num1 ** 2)  # Output: 100
 
 # Absolute value

@@ -85,12 +85,12 @@ print(str.rfind("o"))  # Output: 7
 print(str.rindex("o"))  # Output: 7
 
 # Right-justify the string
-print(str.rjust(20))  # Output:         Hello World
+print(str.rjust(20))  # Output: Hello World
 
 # Split the string into a list of words from the right
 print(str.rsplit())  # Output: ['Hello', 'World']
 
-# Remove trailing whitespace
+# Remove trailing whitespace 
 print(str.rstrip())  # Output: Hello World
 
 # Left-justify the string
