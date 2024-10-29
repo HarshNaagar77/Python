@@ -26,12 +26,12 @@ del person_profile['is_student']
 print(person_profile)  # Output: {'name': 'Alice', 'age': 31, 'city': 'New York', 'hobbies': ['reading', 'traveling', 'swimming'], 'email': 'alice@example.com'}
 
 # Get the keys of the dictionary
-print(person_profile.keys())  # Output: dict_keys(['name', 'age', 'city', 'hobbies', 'email'])
+print(person_profile.keys())  # Output: dict_keys(['name', 'age', 'city', 'hobbies', 'email']) 
 
 # Get the values of the dictionary
 print(person_profile.values())  # Output: dict_values(['Alice', 31, 'New York', ['reading', 'traveling', 'swimming'], 'alice@example.com'])
 
-# Get the items of the dictionary
+# Get the items of the dictionary     
 print(person_profile.items())  # Output: dict_items([('name', 'Alice'), ('age', 31), ('city', 'New York'), ('hobbies', ['reading', 'traveling', 'swimming']), ('email', 'alice@example.com')])
 
 # Check if a key exists in the dictionary
